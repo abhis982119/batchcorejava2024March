@@ -1,18 +1,18 @@
 package com.batch2024.corejava.elements.variables.basics;
 
 public class PrimitiveDataType {
- /*
-   byte    : byte         [1 byte]                [-128 to +127]
-   short   : short        [2 byte]                [-32768 - +32767]
-   Integer : int          [4 byte]                [-2147483648 - +2147483647]
-   long    : long         [8 byte]
+ /*                        Size        Default_values    Range
+   byte    : byte         [1 byte]           0          [-128 to +127]
+   short   : short        [2 byte]           0          [-32768 - +32767]
+   Integer : int          [4 byte]           0          [-2147483648 - +2147483647]
+   long    : long         [8 byte]           0
 
-   float   : float        [4 byte]
-   decimal : double       [8 byte]
+   float   : float        [4 byte]           0.0
+   decimal : double       [8 byte]           0.0
 
 
-   alphabet: char         [2 byte]
-   boolean : boolean      [1 bit]
+   alphabet: char         [2 byte]           ''
+   boolean : boolean      [1 bit]            false
    (true/false)
 
 

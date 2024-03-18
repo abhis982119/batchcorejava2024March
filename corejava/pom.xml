@@ -11,6 +11,7 @@
 	<groupId>com.batch2024</groupId>
 	<artifactId>corejava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>corejava</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

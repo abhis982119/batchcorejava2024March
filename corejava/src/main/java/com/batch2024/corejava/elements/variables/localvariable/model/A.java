@@ -5,12 +5,12 @@ public class A {
 
 
 
-    public void m1(){  //method
-        int a = 10;  //local-variable
+    public void m1(){  //method   // memeory-allocate
+        int a = 10;  //local-variable  // 4 byte
 
         System.out.println("value of a :" + a);
 
-    }
+    }  // memerory de-allocated
 
 
     public void m2(){
