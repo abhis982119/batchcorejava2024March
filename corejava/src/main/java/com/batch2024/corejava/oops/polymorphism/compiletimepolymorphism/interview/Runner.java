@@ -16,10 +16,6 @@ public class Runner {
      //   math.add(21400000000, 21400000000); //  integer number too large
 
 
-
-
-
-
         math.add(10.0, 20.0); //double-add(), as for math decimal numbers default java primitive datatype is double
         math.add(10.0f, 20.0f); // float will be called
 
